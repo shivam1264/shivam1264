@@ -1,115 +1,167 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Kumar%20Maurya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Flutter%20Dev%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0d1117,0d0221,1a0533,0d0221,0d1117&height=280&section=header&text=Shivam%20Kumar%20Maurya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Flutter%20Dev%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=17&descColor=a78bfa"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+real-world+apps+that+matter+%F0%9F%9A%80;Grand+Prize+Winner+%E2%80%94+TIC+2K26+%F0%9F%8F%86;National+Runner-Up+%E2%80%94+BGI+Hackathon+2026+%F0%9F%A5%88;Flutter+%7C+Flask+%7C+MongoDB+%7C+Firebase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=650&height=40&lines=%F0%9F%9A%80+Building+real-world+apps+that+matter;%F0%9F%8F%86+Grand+Prize+%E2%80%94+TIC+2K26+(1st+Place+%E2%82%B920%2C000);%F0%9F%A5%88+National+Runner-Up+%E2%80%94+BGI+Hackathon+2026;%E2%9A%A1+Flutter+%7C+Flask+%7C+MongoDB+%7C+Firebase+%7C+ML" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-maurya-000370251/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam1264)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryashivamkumar841@gmail.com)
+<a href="https://www.linkedin.com/in/shivam-kumar-maurya-000370251/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d0221"/>
+</a>
+<a href="https://github.com/shivam1264">
+  <img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d0221"/>
+</a>
+<a href="mailto:mauryashivamkumar841@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d0221?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=0d0221"/>
+</a>
+<a href="tel:+917235986871">
+  <img src="https://img.shields.io/badge/+91--7235986871-0d0221?style=for-the-badge&logo=whatsapp&logoColor=a78bfa&labelColor=0d0221"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivam1264&label=Profile+Views&color=7c3aed&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/shivam1264?label=Followers&style=flat-square&color=7c3aed)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Achievements That Define Me
+## <img src="https://img.shields.io/badge/-%E2%9A%A1_ACHIEVEMENTS-0d0221?style=for-the-badge&labelColor=1a0533&color=7c3aed"/>
 
 <div align="center">
 
-| 🥇 Grand Prize | 🥈 National Runner-Up | 🎓 Elite Certified |
-|:---:|:---:|:---:|
-| **TIC 2K26 Hackathon** | **BGI Hackathon 2026** | **NPTEL — IIT Kanpur** |
-| ₹20,000 Prize · Team NEXUS | ₹12,000 Prize · 600+ teams | Cloud Computing · 69% |
-| 200+ teams · 36-hr sprint | 2,800+ participants nationwide | Distributed Systems |
+<table>
+<tr>
+<td align="center" width="32%">
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%201ST%20PLACE-FFD700?style=for-the-badge&labelColor=0d0221&color=fbbf24"/>
+<br/><br/>
+<strong>Technocrats Innovation Challenge</strong><br/>
+<sub>TIC 2K26 · Team NEXUS</sub><br/>
+<sub>💰 ₹20,000 Prize</sub><br/>
+<sub>200+ teams · 36-hour sprint</sub>
+</td>
+<td align="center" width="32%">
+<img src="https://img.shields.io/badge/%F0%9F%A5%88%202ND%20PLACE-C0C0C0?style=for-the-badge&labelColor=0d0221&color=94a3b8"/>
+<br/><br/>
+<strong>BGI Hackathon 2026</strong><br/>
+<sub>National Runner-Up</sub><br/>
+<sub>💰 ₹12,000 Prize</sub><br/>
+<sub>600+ teams · 2,800+ participants</sub>
+</td>
+<td align="center" width="32%">
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20ELITE-a78bfa?style=for-the-badge&labelColor=0d0221&color=7c3aed"/>
+<br/><br/>
+<strong>NPTEL — IIT Kanpur</strong><br/>
+<sub>Cloud Computing &</sub><br/>
+<sub>Distributed Systems</sub><br/>
+<sub>Elite Certification · 69%</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 About Me
+## <img src="https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB_ABOUT%20ME-0d0221?style=for-the-badge&labelColor=1a0533&color=7c3aed"/>
 
-```python
-shivam = {
-    "role"      : "Full-Stack Engineer & Flutter Developer",
-    "college"   : "SISTec, Bhopal — CSE (2023–2027)",
-    "location"  : "Bhopal, Madhya Pradesh 🇮🇳",
-    "building"  : ["AI-powered mobile apps", "real-time web platforms", "ML pipelines"],
-    "won"       : ["TIC 2K26 — 1st Place 🏆", "BGI Hackathon 2026 — 2nd Place 🥈"],
-    "contact"   : "mauryashivamkumar841@gmail.com",
-    "fun_fact"  : "I build safety tools by day and debug Flutter widgets by night 🦋"
+```typescript
+const shivam: Developer = {
+  name        : "Shivam Kumar Maurya",
+  role        : "Full-Stack Engineer & Flutter Developer",
+  college     : "SISTec Bhopal — CSE (2023–2027)",
+  location    : "Bhopal, Madhya Pradesh 🇮🇳",
+  building    : ["AI-powered mobile apps", "real-time platforms", "ML pipelines"],
+  won         : ["🏆 TIC 2K26 — 1st Place (₹20,000)", "🥈 BGI Hackathon 2026 — 2nd (₹12,000)"],
+  contact     : "mauryashivamkumar841@gmail.com",
+  currentFocus: "Building impactful products with Flutter + AI",
+  funFact     : "I build safety tools by day & debug Flutter widgets by night 🦋"
 }
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack
+## <img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F_TECH%20STACK-0d0221?style=for-the-badge&labelColor=1a0533&color=7c3aed"/>
 
 <div align="center">
 
-**Languages**
+**`── Languages ──`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a78bfa)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
 
-**Frontend & Mobile**
+**`── Mobile & Frontend ──`**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=a78bfa)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=a78bfa)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=a78bfa)
 
-**Backend & APIs**
+**`── Backend & APIs ──`**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=a78bfa)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=a78bfa)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socket.io&logoColor=a78bfa)
 
-**Databases & Cloud**
+**`── Databases & Cloud ──`**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=a78bfa)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=a78bfa)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=a78bfa)
 
-**ML & AI**
+**`── ML & AI ──`**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=a78bfa)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=a78bfa)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+
+**`── Tools ──`**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a78bfa)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=a78bfa)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=for-the-badge&logo=android-studio&logoColor=a78bfa)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+## <img src="https://img.shields.io/badge/-%F0%9F%9A%80_FEATURED%20PROJECTS-0d0221?style=for-the-badge&labelColor=1a0533&color=7c3aed"/>
 
 <div align="center">
 
 ### 🛡️ SHEild AI — Women Safety App
-*Grand Prize Winner · TIC 2K26 | National Runner-Up · BGI Hackathon 2026*
+
+**`🏆 Grand Prize · TIC 2K26 · ₹20,000`** &nbsp;|&nbsp; **`🥈 National Runner-Up · BGI Hackathon 2026 · ₹12,000`**
 
 </div>
 
-> AI-powered women's safety platform with real-time SOS, voice-triggered emergency activation, and offline-first reliability.
+> 🌑 AI-powered women's safety platform — real-time SOS, voice-triggered emergency activation, and offline-first reliability.
 
-- 🔴 **SOS System** — One-tap + voice-triggered emergency alerts with live GPS broadcast
-- 📍 **Live Location Tracking** — Real-time sharing with emergency contacts via Firebase
-- 🎤 **Speech Recognition** — Background voice detection for hands-free activation
-- 🏗️ **Clean Architecture** — Flutter + Provider + Firebase + MongoDB for full scalability
+| | Feature | Description |
+|:---:|:---|:---|
+| 🔴 | **SOS System** | One-tap + voice-triggered emergency alerts with live GPS broadcast to contacts |
+| 📍 | **Live Location** | Real-time GPS sharing with emergency contacts via Firebase FCM push |
+| 🎤 | **Voice Activation** | Background speech recognition for hands-free emergency trigger |
+| 📴 | **Offline-First** | Secure local data storage ensuring reliability without internet |
+| 🏗️ | **Clean Architecture** | Flutter + Provider + Firebase + MongoDB — fully modular & scalable |
 
-`Flutter` `Firebase` `MongoDB` `Google Maps` `Provider` `Speech Recognition`
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a78bfa)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=a78bfa)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=a78bfa)
+![Google Maps](https://img.shields.io/badge/Google_Maps-0d1117?style=flat-square&logo=google-maps&logoColor=a78bfa)
+![Provider](https://img.shields.io/badge/Provider-0d1117?style=flat-square&logo=dart&logoColor=a78bfa)
+![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-0d1117?style=flat-square&logo=google&logoColor=a78bfa)
 
 ---
 
@@ -119,14 +171,21 @@ shivam = {
 
 </div>
 
-> Automated Number Plate Recognition system eliminating physical sensors using pure CV + ML.
+> 🌑 Sensor-free automated parking using computer vision — OCR + ML pipeline for license plate recognition.
 
-- 🔍 **OCR Pipeline** — Bigram Language Models + Levenshtein Distance for plate correction
-- 📊 **Live Dashboard** — Real-time slot availability via Leaflet.js maps
-- 📱 **Mobile App** — React Native app for on-the-go parking status
-- ⚙️ **Scalable APIs** — Flask + Node.js + MongoDB for vehicle lifecycle management
+| | Feature | Description |
+|:---:|:---|:---|
+| 🔍 | **OCR Pipeline** | Bigram Language Models + Levenshtein Distance for plate text correction |
+| 📊 | **Live Dashboard** | Real-time parking slot availability maps via Leaflet.js |
+| 📱 | **Mobile App** | React Native app for on-the-go parking status |
+| ⚙️ | **Scalable APIs** | Flask + Node.js + MongoDB for full vehicle lifecycle management |
 
-`Python` `Flask` `OpenCV` `EasyOCR` `React Native` `Node.js` `MongoDB` `Leaflet.js`
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a78bfa)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=a78bfa)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=a78bfa)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=a78bfa)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=a78bfa)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-0d1117?style=flat-square&logo=leaflet&logoColor=a78bfa)
 
 ---
 
@@ -136,53 +195,67 @@ shivam = {
 
 </div>
 
-> Social learning platform for students — posts, discussions, events, and real-time interactions.
+> 🌑 Social learning platform — posts, discussions, events, and real-time interactions for students.
 
-- 🔐 **Secure Auth** — JWT-based authentication with password reset flow
-- ⚡ **Real-time** — Socket.io for live notifications, likes, and comments
-- 🛡️ **Admin Dashboard** — Content moderation and platform management panel
+| | Feature | Description |
+|:---:|:---|:---|
+| 🔐 | **JWT Auth** | Secure login, password reset, and user session management |
+| ⚡ | **Real-time** | Socket.io for live notifications, likes, and comments |
+| 🛡️ | **Admin Panel** | Content moderation and platform management dashboard |
+| 📡 | **REST APIs** | Scalable Node.js APIs with well-structured MongoDB schemas |
 
-`Node.js` `Express.js` `MongoDB` `Socket.io` `JWT` `JavaScript`
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=a78bfa)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=a78bfa)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socket.io&logoColor=a78bfa)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=a78bfa)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=a78bfa)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## <img src="https://img.shields.io/badge/-%F0%9F%93%8A_GITHUB%20STATS-0d0221?style=for-the-badge&labelColor=1a0533&color=7c3aed"/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam1264&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1264&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam1264&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1264&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1264&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1264&theme=midnight-purple&hide_border=true&background=0d0221&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam1264&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam1264&theme=tokyo-night&bg_color=0d0221&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📜 Certifications
-
-- 🏅 **Cloud Computing & Distributed Systems** — NPTEL, IIT Kanpur *(Elite, 69%)*
-- 🔐 **Introduction to Cybersecurity** — Cisco Networking Academy
-- 🐍 **Python Essentials 1 & 2** — Cisco Networking Academy
-
----
+## <img src="https://img.shields.io/badge/-%F0%9F%93%9C_CERTIFICATIONS-0d0221?style=for-the-badge&labelColor=1a0533&color=7c3aed"/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+| | Certification | Issuer | Badge |
+|:---:|:---|:---|:---:|
+| 🏅 | **Cloud Computing & Distributed Systems** | NPTEL — IIT Kanpur | ![Elite](https://img.shields.io/badge/Elite-69%25-7c3aed?style=flat-square&labelColor=0d0221) |
+| 🔐 | **Introduction to Cybersecurity** | Cisco Networking Academy | ![Certified](https://img.shields.io/badge/Certified-✓-7c3aed?style=flat-square&labelColor=0d0221) |
+| 🐍 | **Python Essentials 1** | Cisco Networking Academy | ![Certified](https://img.shields.io/badge/Certified-✓-7c3aed?style=flat-square&labelColor=0d0221) |
+| 🐍 | **Python Essentials 2** | Cisco Networking Academy | ![Certified](https://img.shields.io/badge/Certified-✓-7c3aed?style=flat-square&labelColor=0d0221) |
 
-**"Building real-world solutions, one commit at a time."**
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivam1264&label=Profile%20Views&color=6E40C9&style=flat)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20real-world%20solutions%2C%20one%20commit%20at%20a%20time.&author=Shivam%20Kumar%20Maurya" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a0533,0d0221&height=120&section=footer&fontColor=a78bfa"/>
 
 </div>
